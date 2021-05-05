@@ -27,3 +27,9 @@
 <a href="https://github.com/wapdrums">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wapdrums&theme=dracula&show_icons=true" />
 </a></br>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Wesley Plaza](https://img.shields.io/badge/-WesleyAmorimPlaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/wapdrums)](https://github.com/wapdrums)
+[![Gmail Badge](https://img.shields.io/badge/-wapdrums@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:wapdrums@gmail.com)
+[![GitHub Wapdrums]( https://img.shields.io/github/followers/wapdrums?label=follow&style=social)](https://github.com/wapdrums)
