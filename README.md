@@ -4,8 +4,8 @@
 
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na UNINOVE
-- 🌱 Aprendendo mais sobre algumas linguagens de programação como HTML, CSS, JavaScript, React , Kotlin.
+- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas e estudando (2º semestre) segurança da informação na UNINOVE
+- 🌱 Aprendendo e desenvolvendo em HMTML, CSS, Bootstrap, JavaScript, VueJs, React. 
 
 🚀  Minhas Skills
 
