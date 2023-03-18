@@ -6,8 +6,8 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. <br/>
 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.<br/>
-🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas e estudando (2º semestre) segurança da informação na UNINOVE<br/>
-🌱 Aprendendo e desenvolvendo em HTML, CSS, Bootstrap, JavaScript, VueJs, React e atualmente estudando também sobre angular<br/> <br/>
+🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas e estudando segurança da informação na UNINOVE (2º semestre)<br/>
+🌱 Aprendendo e desenvolvendo em HTML, CSS, Bootstrap, JavaScript, VueJs e atualmente estudando sobre react <br/> <br/>
 
 ![wapdrums GitHub stats](https://github-readme-stats.vercel.app/api?username=wapdrums&show_icons=true&theme=dracula&count_private=true)
 
