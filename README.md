@@ -11,6 +11,7 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
  Explorando novas tecnologias e desenvolvendo soluções de software.<br/>
 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas e estudando segurança da informação na UNINOVE (2º semestre)<br/>
 🌱 Aprendendo e desenvolvendo em HTML, CSS, Bootstrap, JavaScript, VueJs e atualmente estudando sobre python <br/> <br/>
+  
 
   
   ## Tecnologias que eu uso no meu dia: 
