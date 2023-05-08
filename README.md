@@ -2,8 +2,7 @@
   
 ## Olá! Eu sou o Wesley Plaza 🖐️
   
- 
-  
+
   
 
 [![Blog](https://img.shields.io/website?label=lelloplaza.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://www.linkedin.com/in/wesleyplaza/)
