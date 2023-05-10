@@ -7,6 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lelloplaza)
 
   
+  
+  
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.  <br/>
  Explorando novas tecnologias e desenvolvendo soluções de software.<br/>
