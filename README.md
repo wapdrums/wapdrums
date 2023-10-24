@@ -5,10 +5,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyplaza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lelloplaza)
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.  <br/>
- Explorando novas tecnologias e desenvolvendo soluções de software.<br/>
-🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas e estudando segurança da informação na UNINOVE (2º semestre)<br/>
-🌱 Aprendendo e desenvolvendo em HTML, CSS, Bootstrap, JavaScript, sempre praticando logica de programação e em busca da minha vaga na area de tecnologia <br/> <br/>
+🚀 Apaixonado por tecnologia e determinado a impactar positivamente a vida das pessoas por meio da programação.
+
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE, atualmente cursando Segurança da Informação (2º semestre).
+
+💻 Buscando oportunidades na área de desenvolvimento e segurança da informação.
+
+🌱 Aprendendo e desenvolvendo habilidades em HTML, CSS, Bootstrap e JavaScript, sempre aprimorando minha lógica de programação para alcançar meu objetivo na área de tecnologia. <br/> <br/>
   
   ## Tecnologias que eu uso no meu dia: 
 
