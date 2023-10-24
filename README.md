@@ -7,7 +7,7 @@
 
 🚀 Apaixonado por tecnologia e determinado a impactar positivamente a vida das pessoas por meio da programação.
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE, atualmente cursando Segurança da Informação (2º semestre).
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE, atualmente cursando Segurança da Informação (3º semestre).
 
 💻 Buscando oportunidades na área de desenvolvimento e segurança da informação.
 
