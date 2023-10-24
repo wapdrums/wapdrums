@@ -6,15 +6,11 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyplaza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lelloplaza)
 
-🚀 Apaixonado por tecnologia e determinado a impactar positivamente a vida das pessoas por meio da programação.
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE, atualmente cursando Segurança da Informação (3º semestre).
-💻 Buscando oportunidades na área de desenvolvimento e segurança da informação.
-🌱 Aprendendo e desenvolvendo habilidades em HTML, CSS, Bootstrap e JavaScript, sempre aprimorando minha lógica de programação para alcançar meu objetivo na área de tecnologia. <br/> 
+🚀 Apaixonado por tecnologia e determinado a impactar positivamente a vida das pessoas por meio da programação.<br>
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE, atualmente cursando Segurança da Informação (3º semestre).<br>
+💻 Buscando oportunidades na área de desenvolvimento e segurança da informação.<br>
+🌱 Aprendendo e desenvolvendo habilidades em HTML, CSS, Bootstrap e JavaScript, sempre aprimorando minha lógica de programação para alcançar meu objetivo na área de tecnologia. <br/> <br>
 
-<br/>
-  
- 
-  
   ## Tecnologias que eu uso no meu dia:  
 
 <div style="display: inline_block">
@@ -41,3 +37,4 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
   <img align="center" alt="code" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   <img align="center" alt="code" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div><br/>
+</div>
