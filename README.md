@@ -13,6 +13,7 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
 
 <br/>
   
+ 
   
   ## Tecnologias que eu uso no meu dia:  
 
@@ -31,7 +32,7 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
 </div><br/>
- </div>
+ 
 ## Ferramentas de Desenvolvimento:
 
 <div style="display: inline_block">
@@ -40,5 +41,3 @@ I'm a front-end Developer working in Brasil, São Paulo.</br>
   <img align="center" alt="code" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   <img align="center" alt="code" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 </div><br/>
-
-</div>
