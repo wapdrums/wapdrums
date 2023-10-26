@@ -1,10 +1,11 @@
 <div align="center">     
-<h2>🚀 Hello! My name is Wesley Plaza 💻   </br></h2>          
-  
+<h2>🚀 Hello! My name is Wesley Plaza 💻   </br></h2>
 I'm a front-end Developer working in Brasil, São Paulo.</br> 
-  
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyplaza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lelloplaza)
+
 
 🚀 Apaixonado por tecnologia e determinado a impactar positivamente a vida das pessoas por meio da programação.<br>
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE, atualmente cursando Segurança da Informação (3º semestre).<br>
