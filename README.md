@@ -1,6 +1,6 @@
 <div align="center">     
 <h2>🚀 Hello! My name is Wesley Plaza 💻   </br></h2>
-I'm a front-end Developer working in Brasil, São Paulo.</br> 
+I'm a front-end Developer working in Brasil, São Paulo.</br> </br> 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyplaza/)
