@@ -8,8 +8,8 @@ I'm a front-end Developer working in Brasil, São Paulo.</br> </br>
 
 
 🚀 Apaixonado por tecnologia e determinado a impactar positivamente a vida das pessoas por meio da programação.<br>
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE, atualmente cursando Segurança da Informação (3º semestre).<br>
-💻 Buscando oportunidades na área de desenvolvimento e segurança da informação.<br>
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINOVE<br>
+💻 Buscando oportunidades na área de desenvolvimento<br>
 🌱 Aprendendo e desenvolvendo habilidades em HTML, CSS, Bootstrap e JavaScript, sempre aprimorando minha lógica de programação para alcançar meu objetivo na área de tecnologia. <br/> <br>
 
   ## Tecnologias que eu uso no meu dia:  
