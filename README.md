@@ -8,7 +8,7 @@
 <ul>
   <li>Front-End: JavaScript, HTML5, CSS3, Bootstrap</li>
   <li>Back-End: Node.js</li>
-  <li>Controle de versão: Git</li>
+  <li>Controle de versão: Git</li>  
   <li>Metodologias ágeis: Scrum, Kanban</li>
   <li>SEO e Performance</li>
   <li>Noções em Linx, VTEX, WordPress</li>
